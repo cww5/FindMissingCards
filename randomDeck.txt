@@ -2,7 +2,7 @@ Spades:K
 Clubs:K
 Diamonds:K
 Hearts:K
-Spades:K
+Spades:Q
 Clubs:Q
 Diamonds:Q
 Hearts:Q
